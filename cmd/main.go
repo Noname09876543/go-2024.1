@@ -29,7 +29,6 @@ func main() {
 
 func run(sizeMax int) error {
 	var s []int
-
 	for {
 		printArray(s)
 		printMenu()
